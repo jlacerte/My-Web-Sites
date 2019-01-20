@@ -1,4 +1,4 @@
-﻿document.getElementById("special").onclick = 
+﻿document.getElementById("special").onclick =
 function() {
-	alert("You clicked me?");
+	alert("Click to continue login");
 }
